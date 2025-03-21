@@ -1,3 +1,5 @@
+## AWS Identity and Access Management
+
 * Login as root user
  * Create policies first
     * Click policy - select a service (EC2) - Manual action (tick all EC2 box) as shown below 
